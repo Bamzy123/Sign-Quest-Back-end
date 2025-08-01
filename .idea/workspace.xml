@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aec32573-f676-4b11-8a42-9b2aa6049f1a" name="Changes" comment="update on questions controller and seedSignQuestions.js">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/challengeController.js" beforeDir="false" afterPath="$PROJECT_DIR$/controller/challengeController.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Bamzy123&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/christianahOlude/Signly.git&quot;,
+    &quot;accountId&quot;: &quot;5e0854dc-fa0d-46a3-9588-1a9f5652305e&quot;
+  },
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
+    },
+    &quot;owner&quot;: &quot;christianahOlude&quot;,
+    &quot;repository&quot;: &quot;Signly&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2zgTm3Qy5hjs46YKiztNDxL11eH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/bamsy/SignlyQuest&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.uml&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/home/bamsy/.local/share/JetBrains/Toolbox/apps/webstorm/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-WS-251.27812.50" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aec32573-f676-4b11-8a42-9b2aa6049f1a" name="Changes" comment="" />
+      <created>1752151872183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752151872183</updated>
+      <workItem from="1752151874242" duration="19386000" />
+      <workItem from="1752177486540" duration="12822000" />
+      <workItem from="1752216982287" duration="877000" />
+      <workItem from="1752217878664" duration="1985000" />
+      <workItem from="1752221695285" duration="990000" />
+      <workItem from="1752223618361" duration="149000" />
+      <workItem from="1752223778833" duration="2794000" />
+      <workItem from="1752227044518" duration="11295000" />
+      <workItem from="1752238362397" duration="1445000" />
+      <workItem from="1752241871344" duration="17743000" />
+      <workItem from="1752333258565" duration="1455000" />
+      <workItem from="1752334731440" duration="7002000" />
+      <workItem from="1752412784149" duration="7296000" />
+      <workItem from="1752420687100" duration="439000" />
+      <workItem from="1752421157666" duration="181000" />
+      <workItem from="1752421362694" duration="463000" />
+      <workItem from="1752422715755" duration="2507000" />
+      <workItem from="1752827975246" duration="463000" />
+      <workItem from="1752829943156" duration="1904000" />
+      <workItem from="1753439612361" duration="9809000" />
+      <workItem from="1753534310110" duration="48000" />
+      <workItem from="1753696159442" duration="3346000" />
+      <workItem from="1753699702324" duration="21824000" />
+      <workItem from="1753857741230" duration="86000" />
+      <workItem from="1753868120336" duration="1538000" />
+      <workItem from="1753874975425" duration="1877000" />
+      <workItem from="1754049807300" duration="321000" />
+    </task>
+    <task id="LOCAL-00001" summary="update on step-up and option model.">
+      <option name="closed" value="true" />
+      <created>1752155823712</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752155823712</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update on step-up and option model.">
+      <option name="closed" value="true" />
+      <created>1752156260921</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1752156260921</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update on Options.js model.">
+      <option name="closed" value="true" />
+      <created>1752159848055</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1752159848055</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update on Options.js, Option.js, Question.js and Game.js model.">
+      <option name="closed" value="true" />
+      <created>1752168148079</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1752168148079</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update on Options.js, Option.js, Question.js and Game.js model.">
+      <option name="closed" value="true" />
+      <created>1752176441426</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1752176441426</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update on User.js.">
+      <option name="closed" value="true" />
+      <created>1752176501956</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1752176501956</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update on game, option, score and auth">
+      <option name="closed" value="true" />
+      <created>1752307345252</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1752307345252</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update on option, question and question controller">
+      <option name="closed" value="true" />
+      <created>1752322267197</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1752322267197</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update on seeding questions">
+      <option name="closed" value="true" />
+      <created>1752342939032</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1752342939032</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update on seeding questions">
+      <option name="closed" value="true" />
+      <created>1752343139625</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1752343139625</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update on seeding sign questions">
+      <option name="closed" value="true" />
+      <created>1752365173235</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1752365173235</updated>
+    </task>
+    <task id="LOCAL-00012" summary="update on seeding sign questions">
+      <option name="closed" value="true" />
+      <created>1752416132378</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1752416132378</updated>
+    </task>
+    <task id="LOCAL-00013" summary="update on questions controller">
+      <option name="closed" value="true" />
+      <created>1753440728881</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1753440728881</updated>
+    </task>
+    <task id="LOCAL-00014" summary="update on questions controller and seedSignQuestions.js">
+      <option name="closed" value="true" />
+      <created>1753702806760</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1753702806767</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update on step-up and option model." />
+    <MESSAGE value="update on Options.js model." />
+    <MESSAGE value="update on Options.js, Option.js, Question.js and Game.js model." />
+    <MESSAGE value="update on User.js." />
+    <MESSAGE value="update on game, option, score and auth" />
+    <MESSAGE value="update on option, question and question controller" />
+    <MESSAGE value="update on seeding questions" />
+    <MESSAGE value="update on seeding sign questions" />
+    <MESSAGE value="update on questions controller" />
+    <MESSAGE value="update on questions controller and seedSignQuestions.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="update on questions controller and seedSignQuestions.js" />
+  </component>
+</project>
