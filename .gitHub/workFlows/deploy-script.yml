@@ -1,4 +1,4 @@
-name: deploy-signly
+name: deploy-script
 
 on:
   push:
