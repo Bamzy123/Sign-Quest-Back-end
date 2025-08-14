@@ -1,4 +1,4 @@
-name: deploy_script
+name: deploy_Sign-Quest-Back-end
 
 on:
   push:
