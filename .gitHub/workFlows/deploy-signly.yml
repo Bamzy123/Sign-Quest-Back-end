@@ -1,12 +1,12 @@
-name:  deploy-signly
+name: deploy-signly
 
 on:
   push:
     branches:
-      - main
+      - github-action
     pull_request:
       branches:
-        - main
+        - github-action
     jobs:
       build:
         runs-on: ubuntu-latest
