@@ -3,10 +3,10 @@ name: deploy-signly
 on:
   push:
     branches:
-      - github-action
-    pull_request:
-      branches:
-        - github-action
+      - main
+  pull_request:
+    branches:
+      - main
     jobs:
       build:
         runs-on: ubuntu-latest
