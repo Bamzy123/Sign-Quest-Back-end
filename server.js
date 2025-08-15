@@ -14,6 +14,7 @@ const app = express();
 connectDB();
 
 app.use(express.json());
+
 app.use(cors());
 
 app.use('/api/auth', router);
